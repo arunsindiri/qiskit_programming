@@ -37,5 +37,6 @@ for step in range(10):
             new_grid[i,j] = total / count
 
     grid = new_grid
+    print(grid, "\n")
 
 print(grid)

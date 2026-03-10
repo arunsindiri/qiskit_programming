@@ -19,5 +19,6 @@ for step in range(10):
             ) / 4
 
     grid = new_grid
+    print(grid, "\n")
 
 print(grid)
